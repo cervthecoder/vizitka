@@ -1,0 +1,70 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    padding: 0;
+    background-color: #bdbdbd;
+}
+
+.container{
+    display: block;
+    margin: 10px auto;
+    width: 400px;
+    height: 200px;
+    padding-top: 0;
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 4px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.main{
+    margin: 10px auto;
+    width: 480px;
+    height: 100px;
+    padding: 2px;
+    border: 4px;
+}
+
+.bottom{
+    width: 400px;
+    height: 80px;
+    padding: 2px;
+}
+
+.image{
+    width: 110px;
+    height: 110px;
+    margin-bottom: 0; 
+    float: left;
+
+}
+
+ul{
+    margin-top: 0;
+    list-style: none;
+    display: inline-block;
+    padding-bottom: 0;
+}
+
+li{
+    padding-bottom: 15px;
+}
+
+.ul{
+    padding-left: 50px;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+    float: right;
+}
